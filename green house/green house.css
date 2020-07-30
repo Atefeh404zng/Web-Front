@@ -1,0 +1,361 @@
+
+@font-face
+{
+    font-family: 'Yekan';
+    src: url('fonts/web_Yekan/web_Yekan.woff') format('woff');
+}
+.dady
+{
+    width: 100%;
+    background-color: rgb(4, 46, 58);
+    font: 25px yekan;
+    float: right;
+    color: rgb(74, 128, 150);
+}
+#child1
+{
+    background-color: rgb(4, 46, 58);
+    height: 60px;
+    width:150px;
+    font-size: 20px;
+    text-align: center;
+    float: right;
+    box-sizing: border-box;
+    padding-top: 15px;
+    color: rgb(74, 128, 150);
+    padding-right: 40px;    
+}
+#child2
+{
+    background-color: rgb(4, 46, 58);
+    height: 60px;
+    width: 10%;
+    font-size: 20px ;
+    text-align: center;
+    float: right;
+    box-sizing: border-box;
+    padding-top:15px;
+    color: rgb(74, 128, 150);
+}
+#child3
+{
+    background-color: rgb(4, 46, 58);
+    height: 60px;
+    width: 10%;
+    font-size: 20px ;
+    text-align: center;
+    float: right;
+    box-sizing: border-box;
+    padding-top:15px;
+    color: rgb(74, 128, 150);
+}
+#child4
+{
+    background-color: rgb(4, 46, 58);
+    height: 60px;
+    width: 10%;
+    font-size: 20px ;
+    text-align: center;
+    float: right;
+    box-sizing: border-box;
+    padding-top:15px;
+    color: rgb(74, 128, 150);
+}
+#child5
+{
+    background-color: rgb(4, 46, 58);
+    height: 60px;
+    width: 20%;
+    font-size: 20px ;
+    text-align: center;
+    float: left;
+    box-sizing: border-box;
+    padding-top:15px;
+    padding-left: 10px;
+    color: rgb(74, 128, 150);
+}
+#Main-page
+{
+    height: 60px;
+    width:150px;
+    position:relative;
+    font-size: 20px;
+    text-align: center;
+    color:rgb(4, 46, 58); 
+    float: right;
+    padding-top: 15px;
+    padding-right:40px;
+    box-sizing: border-box;
+   
+}
+#About-us
+{
+    height: 60px;
+    width:10%;
+    position:relative;
+    font-size: 20px;
+    text-align: center;
+    color:rgb(4, 46, 58);
+    right: 0px;
+    float: right;
+    box-sizing: border-box;
+    padding-top: 15px;
+}
+#Example
+{
+    height: 60px;
+    width:10%;
+    position:relative;
+    font-size: 20px;
+    text-align: center;
+    color:rgb(4, 46, 58);
+    right: 0px;
+    padding-top: 15px;
+    float: right;
+    box-sizing:border-box;
+    
+}
+#Connect-us
+{
+    height: 60px;
+    width:10%;
+    position:relative;
+    font-size: 20px;
+    text-align: center;
+    color:rgb(4, 46, 58);
+    right: 0px;
+    float: right;
+    padding-top: 15px;
+    box-sizing: border-box;
+}
+#logo
+{
+    position: relative;
+    float: left;
+    padding-left: 2%;
+    margin-top: 15px;
+
+}
+#br
+{
+    height: 60px;
+    width: 40%;
+    position: relative;
+    float: right;
+}
+.common-property
+{
+    position: relative;
+    width: 100%;
+    height: 200px;
+    top: 15px;
+    display: inline-block;
+}
+.common-property2
+{
+    position: relative;
+    width: 100%;
+    height: 200px;
+    display: inline-block;
+}
+#P4
+{
+    position: absolute;
+    width: 315px;
+    height: 200px;
+}
+#P3
+{
+    position: absolute;
+    width: 318px;
+    height: 200px;
+    right: 315px;
+}
+#P2
+{
+    position: absolute;
+    width: 315px;
+    height: 200px;
+    right: 633px;
+}
+#P1
+{
+    position: absolute;
+    height: 200px;
+    width: 318px;
+    right: 946px;
+}
+.first
+{
+    position: relative;
+    width: 100%;
+    height: 500px;
+    text-align: center;
+    top: 40px;
+    box-sizing: border-box;
+}
+
+#matn-Bold
+{
+    font-size: 23px;
+    height: 50px;
+    margin-top: 15px;
+}
+.author1
+{
+    position: absolute;
+    background-color:whitesmoke;
+    width: 300px;
+    height: 430px;
+    display: inline-block;
+    border-radius: 5px;
+    right: 70px;
+    color: black;
+   
+}
+.author2
+{
+    position: absolute;
+    background-color:whitesmoke;
+    width: 300px;
+    height: 430px;
+    display: inline-block;
+    border-radius: 5px;
+    right: 480px;
+    color: black;
+   
+}
+.author3
+{
+    position: absolute;
+    background-color:whitesmoke;
+    width: 300px;
+    height: 430px;
+    display: inline-block;
+    border-radius: 5px;
+    right: 890px;
+    color: black;
+   
+}
+.author-pic
+{
+    position: absolute;
+    width: 300px;
+    height: 200px;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    left: 0px;
+}
+span{
+    color: rgb(114, 194, 114);
+    position: absolute;
+    text-align: center;
+    display: table;
+    right: 55px;
+    top: 220px;
+}.Matn-1
+{
+    position: absolute;
+    height: 200px;
+    width: 280px;
+    top: 255px;
+    right: 10px;
+    text-align: center;
+    box-sizing: border-box;
+    padding: 0 20px 20px 20px;
+}
+.second
+{
+    position: relative;
+    width: 100%;
+    height: 500px;
+    text-align: center;
+    top:120px;
+    padding-top: 50px;
+    box-sizing: border-box;
+    background-color: whitesmoke;
+}
+
+.Matn-2
+{
+    position: absolute;
+    height: 200px;
+    width: 300px;
+    text-align: center;
+    box-sizing: border-box;
+    padding-top: 5px;
+    background-color: lightslategrey;
+    color: white;
+    border-radius: 3px;
+    box-sizing: border-box;
+    padding: 20px;
+}
+.Matn-3
+{
+    position: absolute;
+    height: 200px;
+    width: 300px;
+    text-align: center;
+    box-sizing: border-box;
+    padding-top: 5px;
+    background-color: rgb(115, 194, 115);
+    color: white;
+    border-radius: 3px;
+    box-sizing: border-box;
+    padding: 20px;
+}
+.person-1
+{
+    position: absolute;
+    color: white;
+    top: 180px;
+    text-align: center;
+    width: 300px;
+    height: 300px;
+    right: 70px;
+}
+.person-pic
+{
+    position: absolute;
+    top: 210px;
+    border-radius: 50%;
+    right: 5px;   
+}
+.rizmatn1
+{
+    position: absolute;
+    text-align: center;
+    top: 220px;
+    font-size: 20px;
+    right: 90px;
+    color: black;
+    display:inline-block;
+}
+.rizmatn2
+{
+    position: absolute;
+    top: 38px;
+    text-align: center;
+    color: black;
+    font-size: 13px;
+}
+.person-2
+{
+    position: absolute;
+    color: white;
+    top: 180px;
+    text-align: center;
+    width: 300px;
+    height: 300px;
+    right: 470px;
+}
+.person-3
+{
+    position: absolute;
+    color: white;
+    top: 180px;
+    text-align: center;
+    width: 300px;
+    height: 300px;
+    right: 870px;
+}
